@@ -11,7 +11,7 @@ namespace DllProject
     public class ClearQueryFromCustomerData
     {
         /// <summary>
-        /// wrapper function-call the all functions in order to find and replace the Customer Data
+        /// wrapper function-call all functions in order to find and replace the Customer Data
         /// </summary>
         /// <param name="query">a Kusto query</param>
         /// <returns>if the query is valid, return a clean query-without Customer Data.
@@ -65,11 +65,15 @@ namespace DllProject
                 {
                     case SyntaxKind.NameDeclaration:
                         if (customerDataWordsAndAlternateWords[n.GetFirstToken().ValueText] == null)
+                        {
                             customerDataWordsAndAlternateWords.Add(n.GetFirstToken().ValueText.ToString(), "CustomerData" + indexCustomerData++);
+                        }
                         break;
                     case SyntaxKind.StringLiteralExpression:
                         if (customerDataWordsAndAlternateWords[n.ToString().Trim()] == null)
+                        {
                             customerDataWordsAndAlternateWords.Add(n.ToString().Trim(), "'CustomerData" + indexCustomerData++ + "'");
+                        }
                         break;
                     case SyntaxKind.LongLiteralExpression:
                         var customerDataInNum = false;
@@ -79,7 +83,9 @@ namespace DllProject
                             customerDataInNum = new Regex(currentCheckRegex).Match(n.GetFirstToken().ToString().Trim()).Success;
                         }
                         if (customerDataInNum)
+                        {
                             customerDataWordsAndAlternateWords.Add(n.GetFirstToken().ToString().Trim(), "CustomerData" + indexCustomerData++);
+                        }
                         break;
                 }
             });
