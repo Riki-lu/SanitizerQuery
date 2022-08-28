@@ -1,0 +1,10 @@
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.csproj.AssemblyReference.cache
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.AssemblyInfoInputs.cache
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.AssemblyInfo.cs
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.csproj.CoreCompileInputs.cache
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\bin\Debug\netcoreapp3.1\SanitizerQuery.deps.json
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\bin\Debug\netcoreapp3.1\SanitizerQuery.dll
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\bin\Debug\netcoreapp3.1\SanitizerQuery.pdb
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.dll
+Z:\Microsoft\project\Project\SanitizerQuery\SanitizerQuery\obj\Debug\netcoreapp3.1\SanitizerQuery.pdb

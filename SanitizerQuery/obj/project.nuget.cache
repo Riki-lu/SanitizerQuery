@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UTMAm1umVOBzTx0+4+mPSp/GEyuFdPVTq7ThiteVKeNBwIYlJadpRteaog1aGuyOfls1Zv+1aOSrkAbevXZSPg==",
+  "success": true,
+  "projectFilePath": "Z:\\Microsoft\\project\\Project\\SanitizerQuery\\SanitizerQuery\\SanitizerQuery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.azure.kusto.language\\10.1.0\\microsoft.azure.kusto.language.10.1.0.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

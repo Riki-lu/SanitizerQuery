@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanitizerQuery", "SanitizerQuery\SanitizerQuery.csproj", "{D465C1D5-EE9D-4B98-AE99-146467652AF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "..\DllProject\TestProject\TestProject.csproj", "{7E76A0DE-AB37-4C52-806C-2BB75CCEFF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D465C1D5-EE9D-4B98-AE99-146467652AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D465C1D5-EE9D-4B98-AE99-146467652AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D465C1D5-EE9D-4B98-AE99-146467652AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D465C1D5-EE9D-4B98-AE99-146467652AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E76A0DE-AB37-4C52-806C-2BB75CCEFF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E76A0DE-AB37-4C52-806C-2BB75CCEFF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E76A0DE-AB37-4C52-806C-2BB75CCEFF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E76A0DE-AB37-4C52-806C-2BB75CCEFF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB99504-D947-43D2-A91C-30840874F334}
+	EndGlobalSection
+EndGlobal
